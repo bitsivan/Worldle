@@ -1,0 +1,15 @@
+C:\FullStack\Net\wordle\app-wordle\bin\Debug\net7.0\app-wordle.exe
+C:\FullStack\Net\wordle\app-wordle\bin\Debug\net7.0\app-wordle.deps.json
+C:\FullStack\Net\wordle\app-wordle\bin\Debug\net7.0\app-wordle.runtimeconfig.json
+C:\FullStack\Net\wordle\app-wordle\bin\Debug\net7.0\app-wordle.dll
+C:\FullStack\Net\wordle\app-wordle\bin\Debug\net7.0\app-wordle.pdb
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.csproj.AssemblyReference.cache
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.GeneratedMSBuildEditorConfig.editorconfig
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.AssemblyInfoInputs.cache
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.AssemblyInfo.cs
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.csproj.CoreCompileInputs.cache
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.dll
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\refint\app-wordle.dll
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.pdb
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\app-wordle.genruntimeconfig.cache
+C:\FullStack\Net\wordle\app-wordle\obj\Debug\net7.0\ref\app-wordle.dll
